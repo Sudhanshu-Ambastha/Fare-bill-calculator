@@ -21,3 +21,12 @@ This Python program calculates the fare for a given distance based on the follow
 ## Example
 Enter the distance (in kilometers): 15
 The total fare for 15 km is Rs. 140
+
+## Try it Online
+You can test the program online using Trinket by following this link.https://trinket.io/
+
+## Troubleshooting
+If you encounter any issues or have questions, please don't hesitate to reach out for support.
+
+## Author
+Sudhanshu Ambastha
