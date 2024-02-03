@@ -29,4 +29,4 @@ You can test the program online using Trinket by following this link.https://tri
 If you encounter any issues or have questions, please don't hesitate to reach out for support.
 
 ## Author
-Sudhanshu Ambastha
+[Sudhanshu Ambastha](https://github.com/Sudhanshu-Ambastha)
